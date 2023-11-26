@@ -1,0 +1,7 @@
+/.vs
+/.git
+/x64
+/x32
+CNG.vcxproj
+CNG.vcxproj.filters
+CNG.vcxproj.user
